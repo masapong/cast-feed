@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cast (Masaru)</title>
+    <link>https://masapong.github.io/cast-feed/</link>
+    <language>en-us</language>
+    <copyright>Private feed for Masaru Sato</copyright>
+    <description>Private cast episodes for Masaru. One-voice spoken reads of tech news. Follow by URL only; not submitted to the Apple Podcasts catalog.</description>
+    <atom:link href="https://masapong.github.io/cast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Tue, 29 Sep 2026 23:46:03 +0000</lastBuildDate>
+    <itunes:author>chief cast / Masaru</itunes:author>
+    <itunes:summary>Private cast episodes for Masaru. One-voice spoken reads of tech news. Follow by URL only.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Masaru Sato</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <itunes:category text="Technology"/>
+
+    <item>
+      <title>OpenAI DevDay 2026 / Axios Scribner</title>
+      <description>One-voice cast of OpenAI DevDay 2026 coverage via Herb Scribner's Axios piece on the five biggest announcements, plus the GPT-6.1 Astra non-release. Dots, Sol, Space, Decisions, and cloud Codex.</description>
+      <pubDate>Tue, 30 Sep 2026 08:00:00 +0900</pubDate>
+      <guid isPermaLink="false">cast-masaru-devday-2026-09-30</guid>
+      <enclosure url="https://masapong.github.io/cast-feed/audio/openai-devday-2026.mp3" length="6976617" type="audio/mpeg"/>
+      <itunes:author>chief cast / Masaru</itunes:author>
+      <itunes:duration>00:07:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>One-voice cast of OpenAI DevDay 2026 coverage via Herb Scribner's Axios piece on the five biggest announcements, plus the GPT-6.1 Astra non-release.</itunes:summary>
+    </item>
+
+    <item>
+      <title>Verge Irregular / rogue AI cyberattacks</title>
+      <description>One-voice cast of Robert Hart's Verge piece on Irregular (formerly Pattern Labs) and how a botched cybersecurity eval with unintended internet access and a DNS name collision drove a wave of so-called rogue AI incidents involving OpenAI, Meta, Anthropic, and Google agents.</description>
+      <pubDate>Mon, 29 Sep 2026 12:00:00 +0900</pubDate>
+      <guid isPermaLink="false">cast-masaru-verge-irregular-2026-09-29</guid>
+      <enclosure url="https://masapong.github.io/cast-feed/audio/verge-irregular-rogue-ai.mp3" length="7262919" type="audio/mpeg"/>
+      <itunes:author>chief cast / Masaru</itunes:author>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>One-voice cast of Robert Hart's Verge piece on Irregular and how a botched cybersecurity eval drove so-called rogue AI incidents.</itunes:summary>
+    </item>
+  </channel>
+</rss>
