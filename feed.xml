@@ -10,7 +10,7 @@
     <copyright>Private feed for Masaru Sato</copyright>
     <description>Private cast episodes for Masaru. One-voice spoken reads of tech news. Follow by URL only; not submitted to the Apple Podcasts catalog.</description>
     <atom:link href="https://masapong.github.io/cast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 23:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:02:43 +0000</lastBuildDate>
     <itunes:author>chief cast / Masaru</itunes:author>
     <itunes:summary>Private cast episodes for Masaru. One-voice spoken reads of tech news. Follow by URL only.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <itunes:category text="Technology"/>
+
+    <item>
+      <title>OpenAI launches Dots, its Muse competitor</title>
+      <description>One-voice cast of Emma Roth's Verge piece on OpenAI Dots vs Meta Muse. Apple News door: https://apple.news/AUy8Ht6cUR_edrWuafTMSeg</description>
+      <pubDate>Tue, 30 Sep 2026 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false">cast-masaru-dots-muse-2026-09-30</guid>
+      <enclosure url="https://masapong.github.io/cast-feed/audio/openai-dots-muse.mp3" length="6511011" type="audio/mpeg"/>
+      <itunes:author>chief cast / Masaru</itunes:author>
+      <itunes:duration>00:06:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>One-voice cast of Emma Roth's Verge piece on OpenAI launching Dots, its Muse competitor.</itunes:summary>
+    </item>
 
     <item>
       <title>OpenAI DevDay 2026 / Axios Scribner</title>
