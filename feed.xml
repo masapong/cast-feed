@@ -10,7 +10,7 @@
     <copyright>Private feed for Masaru Sato</copyright>
     <description>Private cast episodes for Masaru. One-voice spoken reads of tech news. Follow by URL only; not submitted to the Apple Podcasts catalog.</description>
     <atom:link href="https://masapong.github.io/cast-feed/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 00:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:37:30 +0000</lastBuildDate>
     <itunes:author>chief cast / Masaru</itunes:author>
     <itunes:summary>Private cast episodes for Masaru. One-voice spoken reads of tech news. Follow by URL only.</itunes:summary>
     <itunes:owner>
@@ -20,6 +20,19 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <itunes:category text="Technology"/>
+
+    <item>
+      <title>America Used to Be Cool. What Happened?</title>
+      <description>One-voice cast of the NYT Opinions episode "Is American Culture Simply Bad Now?" / "America Used to Be Cool. What Happened?" (Sept 30, 2026) with Nadja Spiegelman, W. David Marx, and Euny Hong on soft power, cool, and multipolar culture. Source: https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html</description>
+      <pubDate>Thu, 01 Oct 2026 10:37:00 +0900</pubDate>
+      <guid isPermaLink="false">cast-masaru-nyt-america-cool-2026-10-01</guid>
+      <enclosure url="https://masapong.github.io/cast-feed/audio/nyt-america-cool.mp3" length="9540797" type="audio/mpeg"/>
+      <itunes:author>chief cast / Masaru</itunes:author>
+      <itunes:duration>00:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>One-voice cast of the NYT Opinions soft-power episode: America Used to Be Cool. What Happened?</itunes:summary>
+    </item>
 
     <item>
       <title>OpenAI launches Dots, its Muse competitor</title>
